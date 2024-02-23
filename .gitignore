@@ -1,0 +1,65 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven specific
+target/*                  # Maven build folder
+*/target/*                  # Maven build folder
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/                    # Maven wrapper files
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Other
+*.swp
+*~
+.DS_Store
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# VS Code directories
+.vscode/
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node modules for front-end projects in case you have a mixed project
+node_modules/
